@@ -1,0 +1,65 @@
+body {
+    font-family: font-family: 'Arima', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
+    background-image: url(/images/donation13.jpg);
+    background-repeat: none;
+    background-size: 100%;
+    margin: 2px;
+}
+
+.top-banner-header {
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+}
+
+#top- banner-paragraph {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.donate-button {
+    background-color: tomato;
+    border-radius: 7px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50%;
+    font-weight: bold;
+}
+
+#donate-banner-header {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 250px;
+    font-weight: 7000;
+    color: black;
+}
+
+.amount-banner {
+    background-color: rgb(218, gr218, 218);
+}
+
+#amount-banner-section {
+    display: flex;
+}
+
+.amount-banner-padding {
+    padding: 10;
+    margin: 5px;
+    border-radius: 2px;
+}
+
+#footer {
+    background-color: rgb(10, 10, 37);
+    padding: 60px;
+}
